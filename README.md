@@ -1,5 +1,9 @@
 # [INFO-H515 - Big Data Scalable Analytics](http://uv.ulb.ac.be/course/view.php?id=74317?username=guest)
 
+
+#### *Kyriakos Efthymiadis, Hélène Plisnier (helene.plisnier@vub.be)* - [VUB Artificial Intelligence lab](https://ai.vub.ac.be/)
+
+These exercises were provided by:
 #### *Yann-Aël Le Borgne, Jacopo De Stefani and Gianluca Bontempi* - [Machine Learning Group](http://mlg.ulb.ac.be)
 
 The course slides (analytics part) are available in the `Analytics_Course_Slides` folder.
